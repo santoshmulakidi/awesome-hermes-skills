@@ -38,11 +38,18 @@ Skills in this list are sourced from ClawHub (OpenClaw's public skills registry)
 
 ### Installation
 
-#### ClawHub CLI
-
+#### OpenClaw CLI
 
 ```bash
-clawhub install <skill-slug>
+openclaw skills install <skill-slug>
+```
+
+#### ClawHub CLI
+
+Or with the ClawHub CLI, for registry-managed skill folders outside a full OpenClaw workspace:
+
+```bash
+npx clawhub install <skill-slug>
 ```
 
 #### Manual Installation
@@ -63,7 +70,7 @@ You can also paste the skill's GitHub repository link directly into your assista
 
 ### Why This List Exists?
 
-OpenClaw's public registry (ClawHub) hosts **13,729 community-built skills** as of February 28, 2026. This awesome list has **5,211 skills**. Here's what we filtered out:
+OpenClaw's public registry (ClawHub) hosts thousands of community-built skills. This awesome list curates the best of them. Here's what we filtered out:
 
 | Filter | Excluded |
 |--------|----------|
@@ -108,6 +115,16 @@ You can run these skills without managing a server — a full cloud-hosted OpenC
 <br/>
 
 > **Tip:** If you're self-hosting, pin your OpenClaw Docker image to a specific tag and snapshot your skills volume before upgrades — makes rollbacks painless when a skill update misbehaves.
+
+
+### 🔍 Search & Web Data
+
+OpenClaw agents often need fresh, real-world data — search results, product listings, videos, and more. You can scrape and parse it yourself, or use a search API that returns clean, structured data in real time without managing proxies, CAPTCHAs, or HTML parsing.
+
+<a href="https://serpapi.com/search-engine-apis?utm_source=awesomeopenclawskills_github">
+<img src="https://cdn.voltagent.dev/awesome-repo/serpapi.png" alt="SerpApi"  /><br/>
+Give OpenClaw agents access to real-time Google Search, YouTube, Amazon Product, and web search data through a single API.
+</a>
 
 
 ### 🤖 Model Providers
