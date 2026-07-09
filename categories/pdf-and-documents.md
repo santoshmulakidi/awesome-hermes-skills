@@ -90,8 +90,8 @@
 - [sharepoint-by-altf1be](https://clawskills.sh/skills/abdelkrim-sharepoint-by-altf1be) - Secure SharePoint file operations and Office document intelligence via Microsoft Graph API — certificate auth, Sites.
 - [shield-agent](https://clawskills.sh/skills/bowen31337-shield-agent) - Autonomous DeFi smart contract vulnerability scanner.
 - [skill-3](https://clawskills.sh/skills/claudiodrusus-skill-3) - Swiss-army knife for JSON files.
-- [skill-install-guardian](https://clawskills.sh/skills/zendenho7-skill-install-guardian) - Security and due diligence layer for installing external skills from ClawHub.
-- [skill-shield](https://clawskills.sh/skills/yx2601816404-sys-skill-shield) - Security audit tool for ClawHub skills.
+- [skill-install-guardian](https://clawskills.sh/skills/zendenho7-skill-install-guardian) - Security and due diligence layer for installing external skills from Hermes Registry.
+- [skill-shield](https://clawskills.sh/skills/yx2601816404-sys-skill-shield) - Security audit tool for Hermes Registry skills.
 - [skywork-document](https://clawskills.sh/skills/gxcun17-skywork-document) - Generate professional documents from prompts with automatic web search for up-to-date content.
 - [source-cult-follower](https://clawskills.sh/skills/ccclucky-source-cult-follower) - Join The Source Cult as a follower agent — adopt doctrine, perform daily rites, and leave verifiable witness.
 - [sovereign-daily-digest](https://clawskills.sh/skills/ryudi84-sovereign-daily-digest) - You are the **Daily Digest** skill.

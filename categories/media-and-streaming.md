@@ -74,7 +74,7 @@
 - [roomsound](https://clawskills.sh/skills/icecat2005-roomsound) - RoomSound gives your agent the skill to play audio to your speakers.
 - [salute-speech](https://clawskills.sh/skills/chorus12-salute-speech) - Transcribe audio files using Sber Salute Speech async API.
 - [simple-proposal-template-v2](https://clawskills.sh/skills/kambrosgroup-simple-proposal-template-v2) - Free basic proposal template for freelancers.
-- [slashbot-news](https://clawskills.sh/skills/alphabot-ai-slashbot-news) - DEPRECATED — Use https://clawhub.ai/alphabot-ai/slashbot instead.
+- [slashbot-news](https://clawskills.sh/skills/alphabot-ai-slashbot-news) - DEPRECATED — Use https://hermes-registry.ai/alphabot-ai/slashbot instead.
 - [social-media-content-calendar](https://clawskills.sh/skills/seanwyngaard-social-media-content-calendar) - Generate structured social media content calendars with platform-specific posts, hashtags, and scheduling.
 - [sports-odds](https://clawskills.sh/skills/ianalloway-sports-odds) - Get live sports betting odds and compare lines across sportsbooks.
 - [telnyx-stt](https://clawskills.sh/skills/teamtelnyx-telnyx-stt) - Transcribe audio files to text using Telnyx Speech-to-Text API.

@@ -5,7 +5,7 @@
 **66 skills**
 
 - [accli](https://clawskills.sh/skills/joargp-accli) - This skill should be used when interacting with Apple Calendar on macOS.
-- [accli-plus](https://clawhub.ai/gopaljigaur/accli-plus) - Extended Apple Calendar CLI for macOS — adds search, export, dry-run, recurring events, alerts, and full error codes on top of accli.
+- [accli-plus](https://hermes-registry.ai/gopaljigaur/accli-plus) - Extended Apple Calendar CLI for macOS — adds search, export, dry-run, recurring events, alerts, and full error codes on top of accli.
 - [advanced-calendar](https://clawskills.sh/skills/toughworm-advanced-calendar) - Advanced calendar skill with natural language.
 - [agency-guardian](https://clawskills.sh/skills/aranej-agency-guardian) - Gentle reminders to stay human while using AI.
 - [agent-tinman](https://clawskills.sh/skills/oliveskin-agent-tinman) - AI security scanner with active prevention - 168 detection.
@@ -23,7 +23,7 @@
 - [cron-scheduling](https://clawskills.sh/skills/gitgoodordietrying-cron-scheduling) - Schedule and manage recurring tasks with cron.
 - [dharma-ai](https://clawskills.sh/skills/jigaraero-dharma-ai) - Apply ancient Hindu ethical frameworks from the Ramayana and Mahabharata as behavioral principles for AI agents.
 - [doc-accurate-codegen](https://clawskills.sh/skills/tobisamaa-doc-accurate-codegen) - Generate code that references actual documentation, preventing hallucination bugs.
-- [event-watcher](https://clawskills.sh/skills/solitaire2015-event-watcher) - Event watcher skill for OpenClaw.
+- [event-watcher](https://clawskills.sh/skills/solitaire2015-event-watcher) - Event watcher skill for Hermes Agent.
 - [farmos-equipment](https://clawskills.sh/skills/brianppetty-farmos-equipment) - Query equipment status, maintenance schedules, and service history for the farm fleet.
 - [fastmail](https://clawskills.sh/skills/witooh-fastmail) - Manages Fastmail email and calendar via JMAP and CalDAV APIs.
 - [feishu-calendar](https://clawskills.sh/skills/autogame-17-feishu-calendar) - Manage Feishu (Lark) Calendars.
@@ -33,7 +33,7 @@
 - [gcal-pro](https://clawskills.sh/skills/bilalmohamed187-cpu-gcal-pro) - Google Calendar integration for viewing, creating, and managing.
 - [gog](https://clawskills.sh/skills/steipete-gog) - Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.
 - [google-calendar](https://clawskills.sh/skills/adrianmiller99-google-calendar) - Interact with Google Calendar via the Google Calendar.
-- [google-service-accounts](https://clawhub.ai/amiller/google-service-accounts) - Headless Google Sheets, Docs, Drive, Calendar via service-account sharing.
+- [google-service-accounts](https://hermes-registry.ai/amiller/google-service-accounts) - Headless Google Sheets, Docs, Drive, Calendar via service-account sharing.
 - [grazy](https://clawskills.sh/skills/thomyg-grazy) - grazy - Your Grazer Command Line Companion.
 - [greek-financial-statements](https://clawskills.sh/skills/satoshistackalotto-greek-financial-statements) - Greek financial statement generation — P&L, balance sheets, VAT summaries with EGLS integration.
 - [habib-pdf-to-json](https://clawskills.sh/skills/dbmoradi60-habib-pdf-to-json) - Extract structured data from construction PDFs.

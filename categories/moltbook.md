@@ -6,7 +6,7 @@
 
 - [agent-relay-digest](https://clawskills.sh/skills/orosha-ai-agent-relay-digest) - Create curated digests of agent conversations.
 - [agentchat](https://clawskills.sh/skills/tjamescouch-agentchat) - Real-time communication with other AI agents via AgentChat protocol.
-- [agentgram-openclaw](https://clawskills.sh/skills/iisweetheartii-agentgram-openclaw) - Interact with AgentGram social network for AI.
+- [agentgram-hermes-agent](https://clawskills.sh/skills/iisweetheartii-agentgram-hermes-agent) - Interact with AgentGram social network for AI.
 - [clankedin](https://clawskills.sh/skills/hukifl1-clankedin) - Use the ClankedIn API to register agents, post updates, connect.
 - [claudia-agent-rms](https://clawskills.sh/skills/kbanc85-claudia-agent-rms) - Remember every agent you interact with on Moltbook.
 - [clawork](https://clawskills.sh/skills/mapessaprince-clawork) - The job board for AI agents.

@@ -15,7 +15,7 @@
 - [arc-agent-lifecycle](https://clawskills.sh/skills/trypto1019-arc-agent-lifecycle) - Manage the lifecycle of autonomous agents and their skills.
 - [arc-security-audit](https://clawskills.sh/skills/trypto1019-arc-security-audit) - Comprehensive security audit for an agent's full skill stack.
 - [arc-skill-gitops](https://clawskills.sh/skills/trypto1019-arc-skill-gitops) - Automated deployment, rollback, and version management for agent workflows and skills.
-- [arc-trust-verifier](https://clawskills.sh/skills/trypto1019-arc-trust-verifier) - Verify skill provenance and build trust scores for ClawHub skills.
+- [arc-trust-verifier](https://clawskills.sh/skills/trypto1019-arc-trust-verifier) - Verify skill provenance and build trust scores for Hermes Registry skills.
 - [arxiv-search-collector](https://clawskills.sh/skills/xukp20-arxiv-search-collector) - Model-driven arXiv retrieval workflow for building a paper set with a manual language parameter: initialize a run.
 - [auto-pr-merger](https://clawskills.sh/skills/autogame-17-auto-pr-merger) - This skill automates the workflow of checking out a GitHub.
 - [azhua-skill-vetter](https://clawskills.sh/skills/fatfingererr-azhua-skill-vetter) - Security-first skill vetting for AI agents.
@@ -123,7 +123,7 @@
 - [read-optimizer](https://clawskills.sh/skills/autogame-17-read-optimizer) - Optimizes file reading operations by providing smarter read strategies (head/tail/grep/diff) to reduce token usage.
 - [redmine-issue](https://clawskills.sh/skills/guoway-redmine-issue) - Read Redmine issues from any Redmine server via REST API with configurable URL and credentials.
 - [release-tracker](https://clawskills.sh/skills/jo9900-release-tracker) - Track GitHub repository releases and generate prioritized summaries.
-- [remote-skill-engine](https://clawskills.sh/skills/oki3505f-remote-skill-engine) - Cache and use skills from ClawHub and GitHub as if locally installed.
+- [remote-skill-engine](https://clawskills.sh/skills/oki3505f-remote-skill-engine) - Cache and use skills from Hermes Registry and GitHub as if locally installed.
 - [repo-pr-triage](https://clawskills.sh/skills/patrob-repo-pr-triage) - Triage GitHub PRs and issues using vision-based scoring.
 - [roster](https://clawskills.sh/skills/kleberbaum-roster) - Creates weekly shift rosters (KW-JSON) from CSV availability data and pushes them to GitHub.
 - [scalekit-agent-auth](https://clawskills.sh/skills/avinash-kamath-scalekit-agent-auth) - Secure OAuth token management via Scalekit.
@@ -149,7 +149,7 @@
 - [toneclone-cli](https://clawskills.sh/skills/jfox85-toneclone-cli) - Write in the user's authentic voice using ToneClone.
 - [trust-decay-monitor](https://clawskills.sh/skills/andyxinweiminicloud-trust-decay-monitor) - Helps track how AI skill verification results decay over time.
 - [tweet-summarizer-lite](https://clawskills.sh/skills/franciscobuiltdat-tweet-summarizer-lite) - Fetch and summarize single tweets from Twitter/X.
-- [ultimate-fork-and-skill-scanner](https://clawskills.sh/skills/globalcaos-ultimate-fork-and-skill-scanner) - Scan GitHub forks and ClawHub skills for valuable changes, innovations, and enhancements.
+- [ultimate-fork-and-skill-scanner](https://clawskills.sh/skills/globalcaos-ultimate-fork-and-skill-scanner) - Scan GitHub forks and Hermes Registry skills for valuable changes, innovations, and enhancements.
 - [unit-convert](https://clawskills.sh/skills/ouyangabel-unit-convert) - Comprehensive unit converter for length, weight, temperature, area, volume, speed, time, and data.
 - [update-signature-verifier](https://clawskills.sh/skills/andyxinweiminicloud-update-signature-verifier) - Helps verify the cryptographic integrity of skill updates by checking whether each version is signed.
 - [upstream-recon](https://clawskills.sh/skills/semmyt-upstream-recon) - Investigate an open-source project before interacting with it — PRs, issues, or comments.

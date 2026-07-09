@@ -143,7 +143,7 @@
 - [saa-agent](https://clawskills.sh/skills/mirabarukaso-saa-agent) - Enables AI agents to generate images using the Character Select Stand Alone App (SAA) image generation backend.
 - [shopify-bulk-upload](https://clawskills.sh/skills/zhaoteng-qd-shopify-bulk-upload) - Bulk upload products to Shopify stores.
 - [skill-1](https://clawskills.sh/skills/claudiodrusus-skill-1) - Generate QR codes from text, URLs, WiFi credentials, vCards, or any data.
-- [runapi-mcp](https://clawhub.ai/runapi-ai/runapi-mcp) - 130+ AI models for image, video, music, audio, and LLM generation from 18 providers. 8 MCP tools with free catalog browsing. `npx @runapi.ai/mcp`
+- [runapi-mcp](https://hermes-registry.ai/runapi-ai/runapi-mcp) - 130+ AI models for image, video, music, audio, and LLM generation from 18 providers. 8 MCP tools with free catalog browsing. `npx @runapi.ai/mcp`
 - [skywork-design](https://clawskills.sh/skills/gxcun17-skywork-design) - Generate and edit images via Skywork Image for posters, logos and more.
 - [snapog](https://clawskills.sh/skills/beameasy-snapog) - Generate social images and OG cards from professional templates via the SnapOG API.
 - [solo-humanize](https://clawskills.sh/skills/fortunto2-solo-humanize) - Strip AI writing patterns from text — em dashes, stock phrases, promotional inflation, performed authenticity.
@@ -161,7 +161,7 @@
 - [twinfold](https://clawskills.sh/skills/lpbaril-twinfold) - Control Twinfold — AI-powered social media content platform — from your agent.
 - [ub2-csv-data-analyzer](https://clawskills.sh/skills/underbench2-gif-ub2-csv-data-analyzer) - A skill that enables Claw to load, explore, analyze, and visualize CSV datasets, providing statistical insights.
 - [unsplash](https://clawskills.sh/skills/brokenwatch24-unsplash) - Search, browse, and download high-quality free photos from Unsplash's library of millions of images.
-- [video-editor-ai](https://clawhub.ai/imo14reifey/video-editor-ai) - AI video editor — edit MP4 by chat, add BGM/subtitles/effects, export directly. No GUI needed. Supports TikTok/Reels/Shorts creation.
+- [video-editor-ai](https://hermes-registry.ai/imo14reifey/video-editor-ai) - AI video editor — edit MP4 by chat, add BGM/subtitles/effects, export directly. No GUI needed. Supports TikTok/Reels/Shorts creation.
 - [visualization](https://clawskills.sh/skills/xuzhiwei0217-doctor-visualization) - AI-driven professional data visualization for financial analysis.
 - [vtl-image-analysis](https://clawskills.sh/skills/rusparrish-vtl-image-analysis) - Measure compositional structure in AI-generated images using the Visual Thinking Lens (VTL) framework.
 - [x-founder-operations](https://clawskills.sh/skills/linfangw-x-founder-operations) - Systematic X (Twitter) operations skill for founders, indie developers, and tech professionals.

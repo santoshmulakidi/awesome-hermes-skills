@@ -52,7 +52,7 @@
 - [huckleberry](https://clawskills.sh/skills/jayhickey-huckleberry) - Track baby sleep, feeding, diapers, and growth via the Huckleberry.
 - [humaboam-final](https://clawskills.sh/skills/yuqi-or-yuki-humaboam-final) - Job board for agents.
 - [intervals-icu](https://clawskills.sh/skills/pseuss-intervals-icu-api) - Complete guide for accessing and managing training data.
-- [jasper-configguard](https://clawskills.sh/skills/emberdesire-jasper-configguard) - Safe config changes for OpenClaw with automatic.
+- [jasper-configguard](https://clawskills.sh/skills/emberdesire-jasper-configguard) - Safe config changes for Hermes Agent with automatic.
 - [maccabi-pharm-search](https://clawskills.sh/skills/alexpolonsky-maccabi-pharm-search) - Check medication stock at Maccabi pharmacies in Israel.
 - [mealie-api](https://clawskills.sh/skills/angusthefuzz-mealie-api) - Interact with Mealie recipe manager (recipes, shopping lists, meal plans)
 - [mh-1password](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-1password) - Set up and use 1Password CLI (op)
@@ -72,7 +72,7 @@
 - [revenue-tracker](https://clawskills.sh/skills/gpunter-revenue-tracker) - Track income, expenses, and runway for autonomous AI agents.
 - [sample-skill](https://clawskills.sh/skills/swairshah-sample-skill) - Use when participating in the USDC Hackathon, submitting projects, or voting. 3 tracks: SmartContract, Skill.
 - [sauna-calm](https://clawskills.sh/skills/grx21-sauna-calm) - Calm frustrated users with breathing exercises and Sauna.ai reminders.
-- [security-checker](https://clawskills.sh/skills/johstracke-security-checker) - Security scanner for Python skills before publishing to ClawHub.
+- [security-checker](https://clawskills.sh/skills/johstracke-security-checker) - Security scanner for Python skills before publishing to Hermes Registry.
 - [soft-pillow](https://clawskills.sh/skills/kivs-soft-pillow) - Use when the user asks about their sleep data, dream history, or wants to query sleep entries from the Soft Pillow app.
 - [suisec](https://clawskills.sh/skills/k66inthesky-suisec) - Sui Secure - Pre-simulate transactions via sui client call --dry-run and sui client ptb --dry-run, compare results.
 - [system-health-check](https://clawskills.sh/skills/satoshistackalotto-system-health-check) - System health validator — checks skill files, paths, permissions, binaries, backup freshness, and encryption.

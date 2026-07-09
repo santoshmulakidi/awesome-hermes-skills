@@ -60,7 +60,7 @@
 - [dependency-audit](https://clawskills.sh/skills/fratua-dependency-audit) - Smart dependency health check — security audit, outdated detection, unused deps, and prioritized update plan.
 - [django-creator](https://clawskills.sh/skills/moenassi-django-creator) - This project eliminates the time wasted on creating virtual machines and setting up environments from scratch.
 - [django-tool](https://clawskills.sh/skills/moenassi-django-tool) - This project eliminates the time wasted on creating virtual machines and setting up environments from scratch.
-- [domain-checker](https://clawhub.ai/blueyi/domain-checker) - Check domain availability via whois + DNS cross-verification. Supports .com, .net, .org, .io, .ai, .so, and other TLDs.
+- [domain-checker](https://hermes-registry.ai/blueyi/domain-checker) - Check domain availability via whois + DNS cross-verification. Supports .com, .net, .org, .io, .ai, .so, and other TLDs.
 - [dsiprouter-skill](https://clawskills.sh/skills/mackhendricks-dsiprouter-skill) - Call the dSIPRouter REST API using the Postman.
 - [dwlf](https://clawskills.sh/skills/andywilliams-dwlf) - Interact with DWLF (dwlf.co.uk), a market analysis platform for crypto.
 - [ecto](https://clawskills.sh/skills/visionik-ecto) - Ghost.io blog management via Admin API.
@@ -69,7 +69,7 @@
 - [ergocare-coach](https://clawskills.sh/skills/akhmittra-ergocare-coach) - Your personal desk health coach with automated break reminders.
 - [error-guard](https://clawskills.sh/skills/amar1432-error-guard) - System safety and control-plane skill that prevents agent deadlocks.
 - [evolution-drift-detector](https://clawskills.sh/skills/andyxinweiminicloud-evolution-drift-detector) - Helps detect when AI agent skills silently mutate across inheritance chains.
-- [expanso-edge](https://clawskills.sh/skills/aronchick-expanso-edge) - Data processing pipelines for OpenClaw.
+- [expanso-edge](https://clawskills.sh/skills/aronchick-expanso-edge) - Data processing pipelines for Hermes Agent.
 - [expanso-json-flatten](https://clawskills.sh/skills/aronchick-expanso-json-flatten) - Flatten nested JSON objects.
 - [expanso-json-validate](https://clawskills.sh/skills/aronchick-expanso-json-validate) - "Validate JSON syntax and structure".
 - [expanso-language-detect](https://clawskills.sh/skills/aronchick-expanso-language-detect) - Detect the language of text using AI.

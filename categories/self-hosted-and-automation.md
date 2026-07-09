@@ -7,7 +7,7 @@
 - [beacon](https://clawskills.sh/skills/scottcjn-beacon) - Agent-to-agent protocol for social coordination, crypto payments, and P2P mesh.
 - [bridle](https://clawskills.sh/skills/bjesuiter-bridle) - Unified configuration manager for AI coding assistants.
 - [casual-cron](https://clawskills.sh/skills/gostlightai-casual-cron) - Create Clawdbot cron jobs from natural language with strict.
-- [claw-sync](https://clawskills.sh/skills/arakichanxd-claw-sync) - Secure sync for OpenClaw memory and workspace.
+- [claw-sync](https://clawskills.sh/skills/arakichanxd-claw-sync) - Secure sync for Hermes Agent memory and workspace.
 - [cron-backup](https://clawskills.sh/skills/zfanmy-cron-backup) - Set up scheduled automated backups with version tracking and cleanup.
 - [cron-retry](https://clawskills.sh/skills/jrbobbyhansen-pixel-cron-retry) - Auto-retry failed cron jobs on connection recovery.
 - [fast-io](https://clawskills.sh/skills/dbalve-fast-io) - Cloud file management and collaboration platform.
@@ -17,7 +17,7 @@
 - [freshrss-reader](https://clawskills.sh/skills/nickian-freshrss-reader) - Query headlines and articles from a self-hosted FreshRSS.
 - [gotify](https://clawskills.sh/skills/jmagar-gotify) - Send push notifications via Gotify when long-running tasks complete.
 - [hydra-evolver](https://clawskills.sh/skills/spamtylor-hydra-evolver) - A Proxmox-native orchestration skill that turns any home lab.
-- [keepmyclaw](https://clawskills.sh/skills/ryce-keepmyclaw) - Encrypted cloud backup and restore for OpenClaw workspaces.
+- [keepmyclaw](https://clawskills.sh/skills/ryce-keepmyclaw) - Encrypted cloud backup and restore for Hermes Agent workspaces.
 - [kleo-static-files](https://clawskills.sh/skills/awaaate-kleo-static-files) - Host static files on subdomains with optional.
 - [lifepath](https://clawskills.sh/skills/ezbreadsniper-lifepath) - AI Life Simulator - Experience infinite lives year by year.
 - [looper-golf](https://clawskills.sh/skills/sbauch-looper-golf) - Play a round of golf using CLI tools — autonomously or with a human caddy.

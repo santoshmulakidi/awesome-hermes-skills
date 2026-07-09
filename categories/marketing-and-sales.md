@@ -16,7 +16,7 @@
 - [ar-filter-generation](https://clawskills.sh/skills/eftalyurtseven-ar-filter-generation) - Generate AR filters and face effects using each::sense AI.
 - [attio-enhanced](https://clawskills.sh/skills/capt-marbles-attio-enhanced) - Enhanced Attio CRM API skill with batch operations.
 - [attribution-engine](https://clawskills.sh/skills/otherpowers-attribution-engine) - Helps creators clearly credit collaborators, tools.
-- [auto-skill-hunter](https://clawskills.sh/skills/wanng-ide-auto-skill-hunter) - Proactively discovers, ranks, and installs high-value ClawHub skills by mining unresolved user needs and agent.
+- [auto-skill-hunter](https://clawskills.sh/skills/wanng-ide-auto-skill-hunter) - Proactively discovers, ranks, and installs high-value Hermes Registry skills by mining unresolved user needs and agent.
 - [b2c-marketing](https://clawskills.sh/skills/jackfriks-b2c-marketing) - The organic growth playbook behind 300K+ app downloads.
 - [basecamp-cli](https://clawskills.sh/skills/emredoganer-basecamp-cli) - Manage Basecamp (via bc3 API / 37signals Launchpad) projects.
 - [beads](https://clawskills.sh/skills/rnijhara-beads) - Git-backed issue tracker for AI agents.
@@ -67,7 +67,7 @@
 - [lead-magnets](https://clawskills.sh/skills/staybased-lead-magnets) - Design lead magnets that attract qualified prospects and convert them to paying customers.
 - [lifi-orchestrator](https://clawskills.sh/skills/rhlsthrm-lifi-orchestrator) - Cross-chain bridging and swapping via LI.FI — the leading bridge aggregator that routes across 30+ bridges and DEXs.
 - [linkfuse](https://clawskills.sh/skills/oliverw-linkfuse) - Create a Linkfuse affiliate short link from any URL.
-- [listing-swarm](https://clawhub.ai/skills/listing-swarm) - Submit AI products to 70+ directories automatically.
+- [listing-swarm](https://hermes-registry.ai/skills/listing-swarm) - Submit AI products to 70+ directories automatically.
 - [marketing-strategy-pmm](https://clawskills.sh/skills/alirezarezvani-marketing-strategy-pmm) - Product marketing skill for positioning, GTM strategy, competitive intelligence, and product launches.
 - [meta-ads-report](https://clawskills.sh/skills/kein-s-meta-ads-report) - A powerful toolkit to monitor your Meta (Facebook/Instagram) advertising performance directly through chat.
 - [meta-tags-optimizer](https://clawskills.sh/skills/aaron-he-zhu-meta-tags-optimizer) - Use when the user asks to "optimize title tag", "write meta description", "improve CTR", "Open Graph tags", "social.
@@ -87,7 +87,7 @@
 - [ryot](https://clawskills.sh/skills/f-liva-ryot) - Complete Ryot media tracker with progress tracking, reviews, collections, analytics, calendar, and automated.
 - [sentiment-priority-scorer](https://clawskills.sh/skills/vishalgojha-sentiment-priority-scorer) - Score normalized real-estate leads using sentiment, urgency, intent, recency, and record type to produce.
 - [signup-lead](https://clawskills.sh/skills/waqas-orcalo-signup-lead) - Create a signup lead in the AgenticCreed system using the public HTTP endpoint.
-- [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Authorized email automation for agents.
+- [sequenzy-email-marketing](https://hermes-registry.ai/polnikale/sequenzy-email-marketing) - Authorized email automation for agents.
 - [simplified-social-media](https://clawskills.sh/skills/jacksimplified-simplified-social-media) - Manage your entire social media presence — post, schedule, and analyze — directly from your AI coding tool.
 - [social-media-lead-generation](https://clawskills.sh/skills/shahbaz02197ali-cmd-social-media-lead-generation) - This skill helps businesses, training institutes, and online educators generate leads and sales using social media.
 - [solo-metrics-track](https://clawskills.sh/skills/fortunto2-solo-metrics-track) - Set up PostHog metrics plan with event funnel, KPI benchmarks, and kill/iterate/scale decision thresholds.
@@ -103,5 +103,5 @@
 - [workcrm](https://clawskills.sh/skills/extraterrest-workcrm) - A lightweight, local-first CRM with an explicit confirmation gate.
 - [writing-assistant](https://clawskills.sh/skills/urrrich-writing-assistant) - You are a Writing Team Lead managing specialized writers via MCP tools.
 - [writing-group-leader](https://clawskills.sh/skills/urrrich-writing-group-leader) - You are a Writing Team Lead managing specialized writers via MCP tools.
-- [ldm-openclaw-skill](https://clawhub.ai/live-direct-marketing/ldm-openclaw-skill) - Pre-send deliverability checks for outbound agents.
-- [ldm-openclaw-inbox-mcp-skill](https://clawhub.ai/live-direct-marketing/ldm-openclaw-inbox-mcp-skill) - Paid MCP inbox-placement checks for outbound agents.
+- [ldm-hermes-agent-skill](https://hermes-registry.ai/live-direct-marketing/ldm-hermes-agent-skill) - Pre-send deliverability checks for outbound agents.
+- [ldm-hermes-agent-inbox-mcp-skill](https://hermes-registry.ai/live-direct-marketing/ldm-hermes-agent-inbox-mcp-skill) - Paid MCP inbox-placement checks for outbound agents.

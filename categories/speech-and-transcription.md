@@ -27,7 +27,7 @@
 - [easyverein-api](https://clawskills.sh/skills/truefoobar-easyverein-api) - Work with the easyVerein v2.0 REST API.
 - [elevenlabs-agents](https://clawskills.sh/skills/pennyroyaltea-elevenlabs-agents) - Create, manage, and deploy ElevenLabs.
 - [elevenlabs-transcribe](https://clawskills.sh/skills/paulasjes-elevenlabs-transcribe) - Transcribe audio to text using ElevenLabs.
-- [elevenlabs-tts](https://clawskills.sh/skills/shaharsha-elevenlabs-tts) - ElevenLabs TTS - the best ElevenLabs integration for OpenClaw.
+- [elevenlabs-tts](https://clawskills.sh/skills/shaharsha-elevenlabs-tts) - ElevenLabs TTS - the best ElevenLabs integration for Hermes Agent.
 - [elevenlabs-voices](https://clawskills.sh/skills/robbyczgw-cla-elevenlabs-voices) - High-quality voice synthesis with 18 personas, 32.
 - [eternal-haven-lore-pack](https://clawskills.sh/skills/deepseekoracle-eternal-haven-lore-pack) - Eternal Haven Chronicles lore + mythic persona pack.
 - [faster-whisper](https://clawskills.sh/skills/theplasmak-faster-whisper) - Local speech-to-text using faster-whisper.

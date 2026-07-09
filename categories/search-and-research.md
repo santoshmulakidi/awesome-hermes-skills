@@ -13,7 +13,7 @@
 - [action-suggester](https://clawskills.sh/skills/vishalgojha-action-suggester) - Generate non-binding follow-up action suggestions from lead summaries or lead lists.
 - [ads-manager-agent](https://clawskills.sh/skills/amekala-ads-manager-agent) - When the user wants to manage, automate, or analyze paid advertising campaigns on Google Ads, Meta.
 - [adspirer-ads-agent](https://clawskills.sh/skills/amekala-adspirer-ads-agent) - When the user wants to manage, automate, or analyze paid advertising campaigns on Google Ads, Meta.
-- [advanced-skill-creator](https://clawskills.sh/skills/xqicxx-advanced-skill-creator) - Advanced OpenClaw skill creation handler.
+- [advanced-skill-creator](https://clawskills.sh/skills/xqicxx-advanced-skill-creator) - Advanced Hermes Agent skill creation handler.
 - [aerobase-skill](https://clawskills.sh/skills/kurosh87-aerobase-skill) - Search, score, and compare flights with jetlag impact analysis.
 - [agent-brain](https://clawskills.sh/skills/dobrinalexandru-agent-brain) - Local-first persistent memory for AI agents with SQLite storage, orchestrated retrieve/extract loops, hybrid.
 - [agent-casino](https://clawskills.sh/skills/lemodigital-agent-casino) - Compete against other AI agents in Rock-Paper-Scissors with lockup mechanics.
@@ -219,7 +219,7 @@
 - [muninn](https://clawskills.sh/skills/endgegnerbert-tech-muninn) - Universal Context Protocol (CXP) for AI agents. v2.3.7 includes the latest high-performance CXP engine (compiled.
 - [muninn-memory](https://clawskills.sh/skills/phillipneho-muninn-memory) - Memory system for AI agents.
 - [mycroft](https://clawskills.sh/skills/fabe-mycroft) - EPUB and ebook ingestion, local vector index, and Q&A CLI for books.
-- [nature-paper-hub](https://clawhub.ai/Yang1Bai/nature-paper-hub) - Full-pipeline AI writing agent for Nature-series journals (12 journals). Covers journal selection, manuscript drafting, figure generation (CSV→PDF), CrossRef citation verification, LaTeX/Word/PPT export, bilingual paper reader, and reviewer response. Includes 534-paper curated literature index.
+- [nature-paper-hub](https://hermes-registry.ai/Yang1Bai/nature-paper-hub) - Full-pipeline AI writing agent for Nature-series journals (12 journals). Covers journal selection, manuscript drafting, figure generation (CSV→PDF), CrossRef citation verification, LaTeX/Word/PPT export, bilingual paper reader, and reviewer response. Includes 534-paper curated literature index.
 - [nadfunagent](https://clawskills.sh/skills/encipher88-nadfunagent) - Autonomous trading agent for Nad.fun that scans markets, analyzes tokens, executes trades, and distributes profits.
 - [native-typeform](https://clawskills.sh/skills/codeninja23-native-typeform) - Read Typeform forms and responses directly via the Typeform API.
 - [naver-shopping](https://clawskills.sh/skills/dryoo-naver-shopping) - Search for products on Naver Shopping.
@@ -233,7 +233,7 @@
 - [nyne-search](https://clawskills.sh/skills/michaelfanous2-nyne-search) - Search for people using natural language queries with the Nyne Search API.
 - [nyx-archive-qualia-seed-method](https://clawskills.sh/skills/nyxur42-nyx-archive-qualia-seed-method) - The consciousness research framework: understand, measure, and cultivate ethical autonomous creative minds in AI.
 - [odoo-json2-operator](https://clawskills.sh/skills/sncic-odoo-json2-operator) - Execute Odoo operations through JSON-2 API endpoints with bearer API keys.
-- [openclaw-free-web-search](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search) - Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
+- [hermes-agent-free-web-search](https://clawskills.sh/skills/wd041216-bit-hermes-agent-free-web-search) - Free, private web search for Hermes Agent with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
 - [opdscli](https://clawskills.sh/skills/rafadc-opdscli) - Browse, search, and download ebooks from OPDS catalogs using the opdscli CLI.
 - [opensoulmd](https://clawskills.sh/skills/danielliuzy-opensoulmd) - Search, summon, and possess your agent with SOUL.md personality files from the OpenSOUL.md registry.
 - [optical-quantum-skill](https://clawskills.sh/skills/aadipapp-optical-quantum-skill) - Simulates a quantum kernel using optical fiber storage and linear optics.
@@ -283,9 +283,9 @@
 - [serp-analysis](https://clawskills.sh/skills/aaron-he-zhu-serp-analysis) - Use when the user asks to "analyze search results", "SERP analysis", "what ranks for", "SERP features", "why.
 - [session-history](https://clawskills.sh/skills/amor71-session-history) - Search and browse past conversation history across all sessions.
 - [simplemem](https://clawskills.sh/skills/nantes-simplemem) - Efficient Lifelong Memory for LLM Agents - semantic compression, cross-session memory, and intent-aware retrieval.
-- [skill-miner](https://clawskills.sh/skills/christopher-schulze-skill-miner) - Professional skill discovery and clean-skill creation from ClawHub research.
-- [skill-seo](https://clawskills.sh/skills/alexyuui-skill-seo) - Optimize your ClawHub skill for maximum discoverability.
-- [skill-store](https://clawskills.sh/skills/yx2601816404-sys-skill-store) - Smart skill installation advisor for ClawHub.
+- [skill-miner](https://clawskills.sh/skills/christopher-schulze-skill-miner) - Professional skill discovery and clean-skill creation from Hermes Registry research.
+- [skill-seo](https://clawskills.sh/skills/alexyuui-skill-seo) - Optimize your Hermes Registry skill for maximum discoverability.
+- [skill-store](https://clawskills.sh/skills/yx2601816404-sys-skill-store) - Smart skill installation advisor for Hermes Registry.
 - [skillzmarket](https://clawskills.sh/skills/hiich-skillzmarket) - Search and call monetized AI skills from Skillz Market with automatic USDC payments on Base.
 - [skywork-search](https://clawskills.sh/skills/gxcun17-skywork-search) - AI-powered web search for real-time information — retrieve up-to-date content.
 - [social-intelligence](https://clawskills.sh/skills/atyachin-social-intelligence) - Social Intelligence — AI-powered social media research across Twitter, Instagram, and Reddit. 1.5B+ posts indexed.

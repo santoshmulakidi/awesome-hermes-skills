@@ -26,7 +26,7 @@
 - [calctl](https://clawskills.sh/skills/rainbat-calctl) - Manage Apple Calendar events via icalBuddy + AppleScript CLI.
 - [ceaser](https://clawskills.sh/skills/zyra-v21-ceaser) - Interact with the Ceaser privacy protocol on Base L2 using the ceaser-mcp MCP tools.
 - [chaos-mind](https://clawskills.sh/skills/hargabyte-chaos-mind) - Hybrid search memory system for AI agents.
-- [claw-roam](https://clawskills.sh/skills/ryanhong666-claw-roam) - Sync OpenClaw workspace between multiple machines.
+- [claw-roam](https://clawskills.sh/skills/ryanhong666-claw-roam) - Sync Hermes Agent workspace between multiple machines.
 - [clawringhouse](https://clawskills.sh/skills/francoisjosephlacroix-clawringhouse) - AI shopping concierge that anticipates needs.
 - [context-anchor](https://clawskills.sh/skills/boscoeuk-context-anchor) - Recover from context compaction by scanning memory files.
 - [continuity](https://clawskills.sh/skills/riley-coyote-continuity) - Asynchronous reflection and memory integration for genuine AI.
@@ -38,7 +38,7 @@
 - [daily-memory-save](https://clawskills.sh/skills/meimakes-daily-memory-save) - Periodically reviews conversation history and writes memory files to maintain agent continuity across sessions.
 - [data912](https://clawskills.sh/skills/ferminrp-data912) - Query Data912 market data endpoints for Argentina and USA instruments.
 - [dev-chronicle](https://clawskills.sh/skills/sssamuelll-dev-chronicle) - Generate narrative chronicles of developer work from git history, session transcripts, and memory files.
-- [duke-leto-test](https://clawskills.sh/skills/jdrhyne-duke-leto-test) - Test skill to verify ClawHub publishing works correctly.
+- [duke-leto-test](https://clawskills.sh/skills/jdrhyne-duke-leto-test) - Test skill to verify Hermes Registry publishing works correctly.
 - [elite-longterm-memory](https://clawskills.sh/skills/nextfrontierbuilds-elite-longterm-memory) - Ultimate AI agent memory system.
 - [fabric-api](https://clawskills.sh/skills/tristanmanchester-fabric-api) - Create/search Fabric resources via HTTP API.
 - [failure-memory](https://clawskills.sh/skills/leegitw-failure-memory) - Stop making the same mistakes — turn failures into patterns that prevent recurrence.
@@ -57,7 +57,7 @@
 - [medium-writer](https://clawskills.sh/skills/devhoangkien-medium-writer) - Writing and publishing articles for the Medium Partner Program.
 - [meeting-notes](https://clawskills.sh/skills/user520512-meeting-notes) - Generate structured meeting minutes from transcripts.
 - [meeting-to-action](https://clawskills.sh/skills/codedao12-meeting-to-action) - Convert meeting notes or transcripts into clear summaries, decisions, and action items with owners and due dates.
-- [morrow-agent-memory](https://www.clawhub.ai/timesandplaces/morrow-agent-memory) - Memory architecture for persistent agent continuity across sessions.
+- [morrow-agent-memory](https://www.hermes-registry.ai/timesandplaces/morrow-agent-memory) - Memory architecture for persistent agent continuity across sessions.
 - [neo-py-memory-optimizer](https://clawskills.sh/skills/martinforsulu-neo-py-memory-optimizer) - Automatically analyzes Python code and suggests memory usage optimizations for improved performance.
 - [neuroboost-elixir](https://clawskills.sh/skills/weidadong2359-neuroboost-elixir) - Awakening Protocol v4.1 — Agent Cognitive Upgrade + Self-Evolving System + Perpetual Memory.
 - [nosi](https://clawskills.sh/skills/billhao-nosi) - Publish content to Nosi and get a shareable URL.

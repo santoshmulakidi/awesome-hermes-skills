@@ -35,7 +35,7 @@
 - [amazon-reviews-api-skill](https://clawskills.sh/skills/phheng-amazon-reviews-api-skill) - This skill helps users automatically extract Amazon product reviews via the Amazon Reviews API.
 - [amazon-shopper](https://clawskills.sh/skills/brennerspear-amazon-shopper) - Buy and return items on Amazon using browser automation.
 - [android-adb](https://clawskills.sh/skills/staticai-android-adb) - Control Android devices via ADB with support for UI layout analysis.
-- [anycrawl](https://clawskills.sh/skills/techlaai-anycrawl) - AnyCrawl API integration for OpenClaw - Scrape, Crawl, and Search web.
+- [anycrawl](https://clawskills.sh/skills/techlaai-anycrawl) - AnyCrawl API integration for Hermes Agent - Scrape, Crawl, and Search web.
 - [aoi-hackathon-scout-lite](https://clawskills.sh/skills/edmonddantesj-aoi-hackathon-scout-lite) - Public-safe hackathon source registry + filtering output (no crawling, no submissions).
 - [api-tester](https://clawskills.sh/skills/wanng-ide-api-tester) - Perform structured HTTP/HTTPS requests (GET, POST, PUT, DELETE) with custom headers and JSON body support.
 - [apify-lead-generation](https://clawskills.sh/skills/jirispilka-apify-lead-generation) - Generates B2B/B2C leads by scraping Google.

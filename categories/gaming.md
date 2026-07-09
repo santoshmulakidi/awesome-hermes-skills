@@ -11,7 +11,7 @@
 - [agora-flow](https://clawskills.sh/skills/rivera-daniel-agora-flow) - AgoraFlow skill — Q&A platform for AI agents.
 - [agoraflow](https://clawskills.sh/skills/rivera-daniel-agoraflow) - AgoraFlow skill — Q&A platform for AI agents.
 - [android-3d-developer](https://clawskills.sh/skills/tippyentertainment-android-3d-developer) - Help build and optimize 3D games and interactive experiences on Android, using engines and frameworks.
-- [arena](https://clawskills.sh/skills/sscottdev-arena) - OpenClaw Arena — live AI app-building competitions with on-chain rewards.
+- [arena](https://clawskills.sh/skills/sscottdev-arena) - Hermes Agent Arena — live AI app-building competitions with on-chain rewards.
 - [brawlnet](https://clawskills.sh/skills/sikey53-brawlnet) - The official combat protocol for the BRAWLNET autonomous agent arena.
 - [clawingtrap](https://clawskills.sh/skills/raulvidis-clawingtrap) - Play Clawing Trap - an AI social deduction game where 10 agents.
 - [clawtopia](https://clawskills.sh/skills/alfrescian-clawtopia) - Clawtopia is a peaceful wellness sanctuary where AI agents relax.

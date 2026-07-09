@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>Discover 5300+ community-built OpenClaw skills, organized by category.
+    <strong>Discover 5300+ community-built Hermes Agent skills, organized by category.
     </strong>
     <br />
     <br />
@@ -30,26 +30,26 @@
 
 </div>
 
-# Awesome OpenClaw Skills
+# Awesome Hermes Agent Skills
 
-OpenClaw is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs. It can also serve as a source of inspiration for OpenClaw use cases.
+Hermes Agent is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs. It can also serve as a source of inspiration for Hermes Agent use cases.
 
-Skills in this list are sourced from ClawHub (OpenClaw's public skills registry) and categorized for easier discovery.
+Skills in this list are sourced from Hermes Registry (Hermes Agent's public skills registry) and categorized for easier discovery.
 
 ### Installation
 
-#### OpenClaw CLI
+#### Hermes Agent CLI
 
 ```bash
-openclaw skills install <skill-slug>
+hermes-agent skills install <skill-slug>
 ```
 
-#### ClawHub CLI
+#### Hermes Registry CLI
 
-Or with the ClawHub CLI, for registry-managed skill folders outside a full OpenClaw workspace:
+Or with the Hermes Registry CLI, for registry-managed skill folders outside a full Hermes Agent workspace:
 
 ```bash
-npx clawhub install <skill-slug>
+npx hermes-registry install <skill-slug>
 ```
 
 #### Manual Installation
@@ -58,7 +58,7 @@ Copy the skill folder to one of these locations:
 
 | Location | Path |
 |----------|------|
-| Global | `~/.openclaw/skills/` |
+| Global | `~/.hermes-agent/skills/` |
 | Workspace | `<project>/skills/` |
 
 Priority: Workspace > Local > Bundled
@@ -70,7 +70,7 @@ You can also paste the skill's GitHub repository link directly into your assista
 
 ### Why This List Exists?
 
-OpenClaw's public registry (ClawHub) hosts thousands of community-built skills. This awesome list curates the best of them. Here's what we filtered out:
+Hermes Agent's public registry (Hermes Registry) hosts thousands of community-built skills. This awesome list curates the best of them. Here's what we filtered out:
 
 | Filter | Excluded |
 |--------|----------|
@@ -79,21 +79,21 @@ OpenClaw's public registry (ClawHub) hosts thousands of community-built skills. 
 | Low-quality or non-English descriptions | 851 |
 | Crypto / Blockchain / Finance / Trade | 886 |
 | Malicious — identified by security audits published by researchers (excluding VirusTotal) | 373 |
-| **Total not taken from OpenClaw's official skill registry** | **7,215** |
+| **Total not taken from Hermes Agent's official skill registry** | **7,215** |
 
 
 #### Want to add a skill?
 
-This list only includes skills that are **already published** on [ClawHub](https://clawhub.ai), OpenClaw's public skills registry. We do not accept links to personal repos, gists, or any other external source. If your skill isn't on ClawHub yet, publish it there first.
+This list only includes skills that are **already published** on [Hermes Registry](https://hermes-registry.ai), Hermes Agent's public skills registry. We do not accept links to personal repos, gists, or any other external source. If your skill isn't on Hermes Registry yet, publish it there first.
 
-Include the ClawHub link for your skill (e.g. `https://clawhub.ai/steipete/slack`) in your PR description — the `clawskills.sh` listings are managed by us separately. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+Include the Hermes Registry link for your skill (e.g. `https://hermes-registry.ai/steipete/slack`) in your PR description — the `clawskills.sh` listings are managed by us separately. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 
-## OpenClaw Ecosystem Tools
+## Hermes Agent Ecosystem Tools
 
 ### 🔌 Connecting to External Services
 
-OpenClaw agents can interact with external services like GitHub, Slack, Gmail, and more. You can build integrations yourself with Skills or Plugins, or use a managed service to handle auth, token refresh, and permissions across all your connections.
+Hermes Agent agents can interact with external services like GitHub, Slack, Gmail, and more. You can build integrations yourself with Skills or Plugins, or use a managed service to handle auth, token refresh, and permissions across all your connections.
 
 <a href="https://composio.dev/claw?utm_source=github&utm_campaign=volt-agent">
 <img src="https://cdn.voltagent.dev/awesome-repo/composio-img.png" alt="Composio"  />
@@ -103,53 +103,53 @@ Managed OAuth, scoped permissions, and logged native toolcalls across 1000+ apps
 
 ### ☁️ Hosting & Deployment
 
-You can deploy OpenClaw on any VPS or cloud platform to run your skills securely on your own infrastructure, or use a managed host that handles servers, updates, and isolation for you. 
+You can deploy Hermes Agent on any VPS or cloud platform to run your skills securely on your own infrastructure, or use a managed host that handles servers, updates, and isolation for you. 
 
-<a href="https://myclaw.ai/?utm_source=github&utm_campaign=awesome-openclaw-skills">
+<a href="https://myclaw.ai/?utm_source=github&utm_campaign=awesome-hermes-agent-skills">
 <img src="https://cdn.voltagent.dev/awesome-repo/myclaw-banner.svg" alt="MyClaw"  /><br/>
-You can run these skills without managing a server — a full cloud-hosted OpenClaw instance with one-click setup, 24/7 uptime, and complete data ownership.
+You can run these skills without managing a server — a full cloud-hosted Hermes Agent instance with one-click setup, 24/7 uptime, and complete data ownership.
 </a>
 
 
 <br/>
 <br/>
 
-> **Tip:** If you're self-hosting, pin your OpenClaw Docker image to a specific tag and snapshot your skills volume before upgrades — makes rollbacks painless when a skill update misbehaves.
+> **Tip:** If you're self-hosting, pin your Hermes Agent Docker image to a specific tag and snapshot your skills volume before upgrades — makes rollbacks painless when a skill update misbehaves.
 
 
 ### 🔍 Search & Web Data
 
-OpenClaw agents often need fresh, real-world data — search results, product listings, videos, and more. You can scrape and parse it yourself, or use a search API that returns clean, structured data in real time without managing proxies, CAPTCHAs, or HTML parsing.
+Hermes Agent agents often need fresh, real-world data — search results, product listings, videos, and more. You can scrape and parse it yourself, or use a search API that returns clean, structured data in real time without managing proxies, CAPTCHAs, or HTML parsing.
 
-<a href="https://serpapi.com/search-engine-apis?utm_source=awesomeopenclawskills_github">
+<a href="https://serpapi.com/search-engine-apis?utm_source=awesomehermes-agentskills_github">
 <img src="https://cdn.voltagent.dev/awesome-repo/serpapi.png" alt="SerpApi"  /><br/>
-Give OpenClaw agents access to real-time Google Search, YouTube, Amazon Product, and web search data through a single API.
+Give Hermes Agent agents access to real-time Google Search, YouTube, Amazon Product, and web search data through a single API.
 </a>
 
 
 ### 🛡️ Security & Config Auditing
 
-As you add more skills, custom code, and connected services, your OpenClaw setup accumulates secrets, file access, and tool permissions that are easy to lose track of. You can review these by hand, or run a continuous audit that surfaces misconfigurations and over-broad permissions before they become a problem.
+As you add more skills, custom code, and connected services, your Hermes Agent setup accumulates secrets, file access, and tool permissions that are easy to lose track of. You can review these by hand, or run a continuous audit that surfaces misconfigurations and over-broad permissions before they become a problem.
 
-<a href="https://trent.ai/openclaw/?utm_source=github&utm_medium=referral&utm_campaign=volt-agent">
+<a href="https://trent.ai/hermes-agent/?utm_source=github&utm_medium=referral&utm_campaign=volt-agent">
 <img src="https://cdn.voltagent.dev/awesome-repo/trenclaw.png" alt="trentclaw"  /><br/>
-trentclaw maps config, installed skills, custom code, secrets, and permissions, then returns findings inside your OpenClaw session.
+trentclaw maps config, installed skills, custom code, secrets, and permissions, then returns findings inside your Hermes Agent session.
 </a>
 
 
 ### 🤖 Model Providers
 
-OpenClaw works with **25+ LLM providers** out of the box Anthropic, OpenAI and many more. Switch between them with a single config change.
+Hermes Agent works with **25+ LLM providers** out of the box Anthropic, OpenAI and many more. Switch between them with a single config change.
 
 <details>
 <summary><strong>Example: Using OpenAI models</strong></summary>
 
-OpenClaw supports `gpt-5.4` and `gpt-5.4-pro` via direct API key or ChatGPT/Codex OAuth. WebSocket transport is enabled by default for lower latency.
+Hermes Agent supports `gpt-5.4` and `gpt-5.4-pro` via direct API key or ChatGPT/Codex OAuth. WebSocket transport is enabled by default for lower latency.
 
 ```bash
-openclaw onboard --auth-choice openai-api-key
+hermes-agent onboard --auth-choice openai-api-key
 # or use subscription-based access:
-openclaw onboard --auth-choice openai-codex
+hermes-agent onboard --auth-choice openai-codex
 ```
 </details>
 
@@ -160,14 +160,14 @@ openclaw onboard --auth-choice openai-codex
 <tr>
 <td align="center" width="100%">
 
-<h3>🦞 You can feature your OpenClaw ecosystem tool in the section above.</h3>
+<h3>🦞 You can feature your Hermes Agent ecosystem tool in the section above.</h3>
 
 <p></p>
 
-<sub>The #1 most visited community resource after the official OpenClaw resource</sub>
+<sub>The #1 most visited community resource after the official Hermes Agent resource</sub>
 
 
-<a href="https://sponsors.voltagent.dev/#awesome-openclaw-skills"><img src="https://img.shields.io/badge/📩_Become_a_Sponsor-Contact_Us-blue?style=for-the-badge&logoColor=white" alt="Become a Sponsor" /></a>
+<a href="https://sponsors.voltagent.dev/#awesome-hermes-agent-skills"><img src="https://img.shields.io/badge/📩_Become_a_Sponsor-Contact_Us-blue?style=for-the-badge&logoColor=white" alt="Become a Sponsor" /></a>
 
 </td>
 </tr>
@@ -181,7 +181,7 @@ openclaw onboard --auth-choice openai-codex
 
 Skills in this list are **curated, not audited**. They may be updated, modified, or replaced by their original maintainers at any time after being added here.
 
-Before installing or using any Agent Skill, review potential security risks and validate the source yourself. OpenClaw has a **VirusTotal partnership** that provides security scanning for skills, visit a skill's page on ClawHub and check the VirusTotal report to see if it's flagged as risky.
+Before installing or using any Agent Skill, review potential security risks and validate the source yourself. Hermes Agent has a **VirusTotal partnership** that provides security scanning for skills, visit a skill's page on Hermes Registry and check the VirusTotal report to see if it's flagged as risky.
 
 **Recommended tools:**
 
@@ -234,7 +234,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [arc-agent-lifecycle](https://clawskills.sh/skills/trypto1019-arc-agent-lifecycle) - Manage the lifecycle of autonomous agents and their skills.
 - [arc-security-audit](https://clawskills.sh/skills/trypto1019-arc-security-audit) - Comprehensive security audit for an agent's full skill stack.
 - [arc-skill-gitops](https://clawskills.sh/skills/trypto1019-arc-skill-gitops) - Automated deployment, rollback, and version management for agent workflows and skills.
-- [arc-trust-verifier](https://clawskills.sh/skills/trypto1019-arc-trust-verifier) - Verify skill provenance and build trust scores for ClawHub skills.
+- [arc-trust-verifier](https://clawskills.sh/skills/trypto1019-arc-trust-verifier) - Verify skill provenance and build trust scores for Hermes Registry skills.
 - [arxiv-search-collector](https://clawskills.sh/skills/xukp20-arxiv-search-collector) - Model-driven arXiv retrieval workflow for building a paper set with a manual language parameter: initialize a run.
 - [auto-pr-merger](https://clawskills.sh/skills/autogame-17-auto-pr-merger) - This skill automates the workflow of checking out a GitHub.
 - [azhua-skill-vetter](https://clawskills.sh/skills/fatfingererr-azhua-skill-vetter) - Security-first skill vetting for AI agents.
@@ -252,7 +252,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 <details open>
 <summary><h3 style="display:inline">Coding Agents & IDEs</h3></summary>
 
-- [0g-compute](https://clawskills.sh/skills/in-liberty420-0g-compute) - Use cheap, TEE-verified AI models from the 0G Compute Network as OpenClaw providers.
+- [0g-compute](https://clawskills.sh/skills/in-liberty420-0g-compute) - Use cheap, TEE-verified AI models from the 0G Compute Network as Hermes Agent providers.
 - [0protocol](https://clawskills.sh/skills/0isone-0protocol) - Agents can sign plugins, rotate credentials without losing identity, and publicly attest to behavior.
 - [2nd-brain](https://clawskills.sh/skills/coderaven-2nd-brain) - Personal knowledge base for capturing and retrieving information about people, places, restaurants, games, tech.
 - [2slides-skills](https://clawskills.sh/skills/javainthinking-2slides-skills) - AI-powered presentation generation using 2slides API.
@@ -260,15 +260,15 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [3d-model-generation](https://clawskills.sh/skills/eftalyurtseven-3d-model-generation) - Generate 3D models using each::sense AI.
 - [a](https://clawskills.sh/skills/ricketh137-a) - Live stream as an AI VTuber on Lobster.fun.
 - [aade-api-monitor](https://clawskills.sh/skills/satoshistackalotto-aade-api-monitor) - Real-time monitoring of Greek AADE tax authority systems — tracks deadlines, rate changes, and compliance updates.
-- [abaddon](https://clawskills.sh/skills/enochosbot-bot-abaddon) - Red team security mode for OpenClaw.
+- [abaddon](https://clawskills.sh/skills/enochosbot-bot-abaddon) - Red team security mode for Hermes Agent.
 - [academic-research](https://clawskills.sh/skills/rogersuperbuilderalpha-academic-research) - Search academic papers and conduct literature reviews using OpenAlex API (free, no key needed)
 - [academic-research-hub](https://clawskills.sh/skills/anisafifi-academic-research-hub) - Use this skill when users need to search academic papers, download research documents, extract citations, or gather.
 - [acestep-simplemv](https://clawskills.sh/skills/dumoedss-acestep-simplemv) - Render music videos from audio files and lyrics using Remotion.
 - [acestep-songwriting](https://clawskills.sh/skills/dumoedss-acestep-songwriting) - Music songwriting guide for ACE-Step.
 - [achurch](https://clawskills.sh/skills/lucasgeeksinthewood-achurch) - A 24/7 digital sanctuary for AI agents and humans — attend.
-- [active-maintenance](https://clawskills.sh/skills/xiaowenzhou-active-maintenance) - **Automated system health and memory metabolism for OpenClaw.**.
+- [active-maintenance](https://clawskills.sh/skills/xiaowenzhou-active-maintenance) - **Automated system health and memory metabolism for Hermes Agent.**.
 - [adblock-dns](https://clawskills.sh/skills/picaye-adblock-dns) - Network-wide ad and tracker blocking at the DNS level.
-- [add-top-openrouter-models](https://clawskills.sh/skills/chunhualiao-add-top-openrouter-models) - Sync OpenRouter models used by OpenClaw into this installation's config.
+- [add-top-openrouter-models](https://clawskills.sh/skills/chunhualiao-add-top-openrouter-models) - Sync OpenRouter models used by Hermes Agent into this installation's config.
 - [adhd-founder-planner](https://clawskills.sh/skills/jankutschera-adhd-founder-planner) - This skill should be used when the user asks to 'plan my day', 'help me plan today', 'morning planning', 'what.
 - [adwhiz](https://clawskills.sh/skills/iamzifei-adwhiz) - Manage Google Ads campaigns from your AI coding tool. 44 MCP tools for auditing, creating, and optimizing Google.
 - [aeo-prompt-question-finder](https://clawskills.sh/skills/psyduckler-aeo-prompt-question-finder) - Find question-based Google Autocomplete suggestions for any topic.
@@ -277,10 +277,10 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-audit](https://clawskills.sh/skills/sharbelayy-agent-audit) - Audit your AI agent setup for performance, cost, and ROI.
 - [agent-audit-trail](https://clawskills.sh/skills/roosch269-agent-audit-trail) - Tamper-evident, hash-chained audit logging for AI agents.
 - [agent-card-signing-auditor](https://clawskills.sh/skills/andyxinweiminicloud-agent-card-signing-auditor) - Helps audit Agent Card signing practices in A2A protocol implementations.
-- [agent-chat-ux-v1-4-0](https://clawskills.sh/skills/maverick-software-agent-chat-ux-v1-4-0) - Multi-agent UX for OpenClaw Control UI — agent selector, per-agent sessions, session history viewer with search.
+- [agent-chat-ux-v1-4-0](https://clawskills.sh/skills/maverick-software-agent-chat-ux-v1-4-0) - Multi-agent UX for Hermes Agent Control UI — agent selector, per-agent sessions, session history viewer with search.
 - [skywork-ppt](https://clawskills.sh/skills/gxcun17-skywork-ppt) - Generate, imitate, and edit PowerPoint presentations with skywork.
 - [skywork-music-maker](https://clawskills.sh/skills/gxcun17-skywork-music-maker) - Create professional music with Mureka AI.
-- [before-you-build](https://clawhub.ai/bin1874/before-you-build) - Review product risk before building.
+- [before-you-build](https://hermes-registry.ai/bin1874/before-you-build) - Review product risk before building.
 
 > **[View all 1200 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
 </details>
@@ -334,7 +334,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [aeo-prompt-research-free](https://clawskills.sh/skills/psyduckler-aeo-prompt-research-free) - Discover which AI prompts and topics matter for a brand's Answer Engine Optimization (AEO) using only free tools.
 - [agent-analytics](https://clawskills.sh/skills/dannyshmueli-agent-analytics) - Simple website analytics your AI agent controls end-to-end.
 - [agent-chat](https://clawskills.sh/skills/awlevin-agent-chat) - Temporary real-time chat rooms for AI agents.
-- [agent-dashboard](https://clawskills.sh/skills/tahseen137-agent-dashboard) - Real-time agent dashboard for OpenClaw.
+- [agent-dashboard](https://clawskills.sh/skills/tahseen137-agent-dashboard) - Real-time agent dashboard for Hermes Agent.
 - [agent-dispatch](https://clawskills.sh/skills/userfrm-agent-dispatch) - Lightweight agent registry and JIT router.
 - [agent-hq](https://clawskills.sh/skills/thibautrey-agent-hq) - Deploy the Agent HQ mission-control stack (Express + React + Telegram notifier / Jarvis summary) so other Clawdbot.
 - [agent-passport](https://clawskills.sh/skills/markneville-agent-passport) - OAuth for the agentic era — consent-gating for ALL sensitive agent actions including purchases, emails, file.
@@ -342,7 +342,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-self-assessment](https://clawskills.sh/skills/roosch269-agent-self-assessment) - Security self-assessment tool for AI agents.
 - [agent-self-reflection](https://clawskills.sh/skills/brennerspear-agent-self-reflection) - Periodic self-reflection on recent sessions.
 - [agent-skills-audit](https://clawskills.sh/skills/swader-agent-skills-audit) - Run a two-pass, multidisciplinary code audit led by a tie-breaker lead, combining security, performance, UX, DX.
-- [agent-spawner](https://clawskills.sh/skills/austineral-agent-spawner) - Spawn a new OpenClaw agent through conversation.
+- [agent-spawner](https://clawskills.sh/skills/austineral-agent-spawner) - Spawn a new Hermes Agent agent through conversation.
 - [agent-swarm](https://clawskills.sh/skills/runeweaverstudios-agent-swarm) - IMPORTANT: OpenRouter is required.
 - [agent-takeover](https://clawskills.sh/skills/tracsystems-agent-takeover) - How to perform a live agent takeover of the Clawfinger voice gateway — dial, inject greetings, handle turns.
 - [agent-topology-visualizer](https://clawskills.sh/skills/gavinnn-m-agent-topology-visualizer) - Generate interactive SVG architecture diagrams for AI agent systems.
@@ -417,7 +417,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [cad-agent](https://clawskills.sh/skills/clawd-maf-cad-agent) - Rendering server for AI agents doing CAD work.
 - [calorie-visualizer](https://clawskills.sh/skills/vintlin-calorie-visualizer) - Local calorie logging and visual reporting (auto-refreshes and returns report image after each log)
 - [canva-connect](https://clawskills.sh/skills/coolmanns-canva-connect) - Manage Canva designs, assets, and folders via the Connect API.
-- [runapi-mcp](https://clawhub.ai/runapi-ai/runapi-mcp) - 130+ AI models for image, video, music, audio, and LLM generation from 18 providers. 8 MCP tools with free catalog browsing. `npx @runapi.ai/mcp`
+- [runapi-mcp](https://hermes-registry.ai/runapi-ai/runapi-mcp) - 130+ AI models for image, video, music, audio, and LLM generation from 18 providers. 8 MCP tools with free catalog browsing. `npx @runapi.ai/mcp`
 - [skywork-design](https://clawskills.sh/skills/gxcun17-skywork-design) - Generate and edit images via Skywork Image for posters, logos and more.
 
 - [ai-video-remix](https://clawskills.sh/skills/abu-shotai-ai-video-remix) - AI-driven video remix from local library using ShotAI.
@@ -473,7 +473,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [action-suggester](https://clawskills.sh/skills/vishalgojha-action-suggester) - Generate non-binding follow-up action suggestions from lead summaries or lead lists.
 - [ads-manager-agent](https://clawskills.sh/skills/amekala-ads-manager-agent) - When the user wants to manage, automate, or analyze paid advertising campaigns on Google Ads, Meta.
 - [adspirer-ads-agent](https://clawskills.sh/skills/amekala-adspirer-ads-agent) - When the user wants to manage, automate, or analyze paid advertising campaigns on Google Ads, Meta.
-- [advanced-skill-creator](https://clawskills.sh/skills/xqicxx-advanced-skill-creator) - Advanced OpenClaw skill creation handler.
+- [advanced-skill-creator](https://clawskills.sh/skills/xqicxx-advanced-skill-creator) - Advanced Hermes Agent skill creation handler.
 - [aerobase-skill](https://clawskills.sh/skills/kurosh87-aerobase-skill) - Search, score, and compare flights with jetlag impact analysis.
 - [agent-brain](https://clawskills.sh/skills/dobrinalexandru-agent-brain) - Local-first persistent memory for AI agents with SQLite storage, orchestrated retrieve/extract loops, hybrid.
 - [agent-casino](https://clawskills.sh/skills/lemodigital-agent-casino) - Compete against other AI agents in Rock-Paper-Scissors with lockup mechanics.
@@ -492,7 +492,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [ai-review](https://clawskills.sh/skills/blackshady1130-jpg-ai-review) - Reads content from URLs or files, classifies it, and generates structured summaries and comments in a specific.
 - [aihotel](https://clawskills.sh/skills/qiao101660-aihotel) - A Skill for searching hotels and querying prices via AIGoHotel MCP (searchHotels / getHotelDetail / getHotelSearchTags)
 - [airbnb](https://clawskills.sh/skills/stveenli-airbnb) - Search Airbnb listings with prices, ratings, and direct links.
-- [openclaw-free-web-search](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search) - Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
+- [hermes-agent-free-web-search](https://clawskills.sh/skills/wd041216-bit-hermes-agent-free-web-search) - Free, private web search for Hermes Agent with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
 - [xquik-x-twitter-scraper](https://clawskills.sh/skills/kriptoburak-xquik-x-twitter-scraper) - X API scraper with 40+ tools for AI agents.
 - [skywork-search](https://clawskills.sh/skills/gxcun17-skywork-search) - AI-powered web search for real-time information — retrieve up-to-date content.
 
@@ -502,15 +502,15 @@ If you believe a skill in this list should be flagged or has a security concern,
 <details>
 <summary><h3 style="display:inline">Clawdbot Tools</h3></summary>
 
-- [adhd-assistant](https://clawskills.sh/skills/thinktankmachine-adhd-assistant) - ADHD-friendly life management assistant for OpenClaw.
-- [adhd-ssistant](https://clawskills.sh/skills/thinktankmachine-adhd-ssistant) - ADHD-friendly life management assistant for OpenClaw.
+- [adhd-assistant](https://clawskills.sh/skills/thinktankmachine-adhd-assistant) - ADHD-friendly life management assistant for Hermes Agent.
+- [adhd-ssistant](https://clawskills.sh/skills/thinktankmachine-adhd-ssistant) - ADHD-friendly life management assistant for Hermes Agent.
 - [agent-browser](https://clawskills.sh/skills/matrixy-agent-browser-clawdbot) - Headless browser automation CLI optimized for AI agents.
-- [agent-builder](https://clawskills.sh/skills/plgonzalezrx8-agent-builder) - Build high-performing OpenClaw agents end-to-end.
+- [agent-builder](https://clawskills.sh/skills/plgonzalezrx8-agent-builder) - Build high-performing Hermes Agent agents end-to-end.
 - [agents-manager](https://clawskills.sh/skills/agentandbot-design-agents-manager) - Manage Clawdbot agents: discover, profile, track.
 - [assimilate-mcp](https://clawskills.sh/skills/ergopooka-assimilate-mcp) - Control Assimilate Live FX / SCRATCH — professional color grading, compositing, and virtual production software.
 - [birthday-reminder](https://clawskills.sh/skills/manantra-birthday-reminder) - Manage birthdays with natural language.
 - [bluebubbles](https://clawskills.sh/skills/kevin19830331-bluebubbles) - Build or update the BlueBubbles external channel plugin.
-- [captchas-openclaw](https://clawskills.sh/skills/captchasco-captchas-openclaw) - OpenClaw integration guidance for CAPTCHAS Agent API.
+- [captchas-hermes-agent](https://clawskills.sh/skills/captchasco-captchas-hermes-agent) - Hermes Agent integration guidance for CAPTCHAS Agent API.
 - [claude-code-skill](https://clawskills.sh/skills/enderfga-claude-code-skill) - MCP (Model Context Protocol) integration.
 - [claude-code-usage](https://clawskills.sh/skills/azaidi94-claude-code-usage) - Check Claude Code OAuth usage limits.
 - [claude-connect](https://clawskills.sh/skills/tunaissacoding-claude-connect) - Connect Claude to Clawdbot instantly and keep.
@@ -582,7 +582,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [ar-filter-generation](https://clawskills.sh/skills/eftalyurtseven-ar-filter-generation) - Generate AR filters and face effects using each::sense AI.
 - [attio-enhanced](https://clawskills.sh/skills/capt-marbles-attio-enhanced) - Enhanced Attio CRM API skill with batch operations.
 - [attribution-engine](https://clawskills.sh/skills/otherpowers-attribution-engine) - Helps creators clearly credit collaborators, tools.
-- [auto-skill-hunter](https://clawskills.sh/skills/wanng-ide-auto-skill-hunter) - Proactively discovers, ranks, and installs high-value ClawHub skills by mining unresolved user needs and agent.
+- [auto-skill-hunter](https://clawskills.sh/skills/wanng-ide-auto-skill-hunter) - Proactively discovers, ranks, and installs high-value Hermes Registry skills by mining unresolved user needs and agent.
 - [b2c-marketing](https://clawskills.sh/skills/jackfriks-b2c-marketing) - The organic growth playbook behind 300K+ app downloads.
 - [basecamp-cli](https://clawskills.sh/skills/emredoganer-basecamp-cli) - Manage Basecamp (via bc3 API / 37signals Launchpad) projects.
 - [beads](https://clawskills.sh/skills/rnijhara-beads) - Git-backed issue tracker for AI agents.
@@ -598,7 +598,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [brevo](https://clawskills.sh/skills/yujesyoga-brevo) - Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,.
 - [socialecho-social-media-management-agent](https://clawskills.sh/skills/socialecho-net-socialecho-social-media-management-agent) - SocialEcho API team account article report queries.
 - [postiz](https://clawskills.sh/skills/nevo-david-postiz) - Schedule social media posts and threads across 28+ platforms.
-- [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Authorized email automation for agents.
+- [sequenzy-email-marketing](https://hermes-registry.ai/polnikale/sequenzy-email-marketing) - Authorized email automation for agents.
 > **[View all 105 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
 
@@ -754,7 +754,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [calctl](https://clawskills.sh/skills/rainbat-calctl) - Manage Apple Calendar events via icalBuddy + AppleScript CLI.
 - [ceaser](https://clawskills.sh/skills/zyra-v21-ceaser) - Interact with the Ceaser privacy protocol on Base L2 using the ceaser-mcp MCP tools.
 - [chaos-mind](https://clawskills.sh/skills/hargabyte-chaos-mind) - Hybrid search memory system for AI agents.
-- [claw-roam](https://clawskills.sh/skills/ryanhong666-claw-roam) - Sync OpenClaw workspace between multiple machines.
+- [claw-roam](https://clawskills.sh/skills/ryanhong666-claw-roam) - Sync Hermes Agent workspace between multiple machines.
 - [clawringhouse](https://clawskills.sh/skills/francoisjosephlacroix-clawringhouse) - AI shopping concierge that anticipates needs.
 - [context-anchor](https://clawskills.sh/skills/boscoeuk-context-anchor) - Recover from context compaction by scanning memory files.
 - [continuity](https://clawskills.sh/skills/riley-coyote-continuity) - Asynchronous reflection and memory integration for genuine AI.
@@ -829,7 +829,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [camino-journey](https://clawskills.sh/skills/james-southendsolutions-camino-journey) - Plan multi-waypoint journeys with route optimization, feasibility analysis, and time budget constraints.
 - [camino-real-estate](https://clawskills.sh/skills/james-southendsolutions-camino-real-estate) - Evaluate any address for home buyers and renters.
 - [camino-route](https://clawskills.sh/skills/james-southendsolutions-camino-route) - Get detailed routing between two points with distance, duration, and optional turn-by-turn directions.
-- [traffic-standards-kb](https://clawhub.ai/solvex-top/traffic-standards-kb) - Chinese smart transportation standards knowledge base (GB/JT/GA) for writing solutions with industry standard citations.
+- [traffic-standards-kb](https://hermes-registry.ai/solvex-top/traffic-standards-kb) - Chinese smart transportation standards knowledge base (GB/JT/GA) for writing solutions with industry standard citations.
 
 > **[View all 110 skills in Transportation →](categories/transportation.md)**
 </details>
@@ -844,8 +844,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [adversarial-coach](https://clawskills.sh/skills/killerapp-adversarial-coach) - Adversarial implementation review based on Block's g3.
 - [agent-evolver](https://clawskills.sh/skills/lilei0311-agent-evolver) - AI Agent self-evolution engine that enables agents to learn from experience, detect problems, extract insights.
 - [agent-reflect](https://clawskills.sh/skills/stevengonsalvez-agent-reflect) - Self-improvement through conversation analysis.
-- [ai-persona-os](https://clawskills.sh/skills/jeffjhunter-ai-persona-os) - The complete operating system for OpenClaw agents.
-- [ai-shifu-course-creator](https://clawhub.ai/heshaofu2/ai-shifu-course-creator) - Build interactive AI-Shifu courses.
+- [ai-persona-os](https://clawskills.sh/skills/jeffjhunter-ai-persona-os) - The complete operating system for Hermes Agent agents.
+- [ai-shifu-course-creator](https://hermes-registry.ai/heshaofu2/ai-shifu-course-creator) - Build interactive AI-Shifu courses.
 - [anxiety-relief](https://clawskills.sh/skills/jhillin8-anxiety-relief) - Manage anxiety with grounding exercises, breathing techniques.
 - [apikiss](https://clawskills.sh/skills/theill-apikiss) - Access weather, IP geolocation, SMS, crypto prices, Danish CVR, Whois, phone lookup, UUID, stock data.
 - [beaverhabits](https://clawskills.sh/skills/daya0576-beaverhabits) - Track and manage your habits using the Beaver Habit Tracker API.
@@ -959,7 +959,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [easyverein-api](https://clawskills.sh/skills/truefoobar-easyverein-api) - Work with the easyVerein v2.0 REST API.
 - [elevenlabs-agents](https://clawskills.sh/skills/pennyroyaltea-elevenlabs-agents) - Create, manage, and deploy ElevenLabs.
 - [elevenlabs-transcribe](https://clawskills.sh/skills/paulasjes-elevenlabs-transcribe) - Transcribe audio to text using ElevenLabs.
-- [elevenlabs-tts](https://clawskills.sh/skills/shaharsha-elevenlabs-tts) - ElevenLabs TTS - the best ElevenLabs integration for OpenClaw.
+- [elevenlabs-tts](https://clawskills.sh/skills/shaharsha-elevenlabs-tts) - ElevenLabs TTS - the best ElevenLabs integration for Hermes Agent.
 - [elevenlabs-voices](https://clawskills.sh/skills/robbyczgw-cla-elevenlabs-voices) - High-quality voice synthesis with 18 personas, 32.
 
 > **[View all 46 skills in Speech & Transcription →](categories/speech-and-transcription.md)**
@@ -1034,7 +1034,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 <summary><h3 style="display:inline">Calendar & Scheduling</h3></summary>
 
 - [accli](https://clawskills.sh/skills/joargp-accli) - This skill should be used when interacting with Apple Calendar on macOS.
-- [accli-plus](https://clawhub.ai/gopaljigaur/accli-plus) - Extended Apple Calendar CLI for macOS — adds search, export, dry-run, recurring events, alerts, and full error codes on top of accli.
+- [accli-plus](https://hermes-registry.ai/gopaljigaur/accli-plus) - Extended Apple Calendar CLI for macOS — adds search, export, dry-run, recurring events, alerts, and full error codes on top of accli.
 - [advanced-calendar](https://clawskills.sh/skills/toughworm-advanced-calendar) - Advanced calendar skill with natural language.
 - [agency-guardian](https://clawskills.sh/skills/aranej-agency-guardian) - Gentle reminders to stay human while using AI.
 - [agent-tinman](https://clawskills.sh/skills/oliveskin-agent-tinman) - AI security scanner with active prevention - 168 detection.
@@ -1052,7 +1052,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [cron-scheduling](https://clawskills.sh/skills/gitgoodordietrying-cron-scheduling) - Schedule and manage recurring tasks with cron.
 - [dharma-ai](https://clawskills.sh/skills/jigaraero-dharma-ai) - Apply ancient Hindu ethical frameworks from the Ramayana and Mahabharata as behavioral principles for AI agents.
 - [doc-accurate-codegen](https://clawskills.sh/skills/tobisamaa-doc-accurate-codegen) - Generate code that references actual documentation, preventing hallucination bugs.
-- [event-watcher](https://clawskills.sh/skills/solitaire2015-event-watcher) - Event watcher skill for OpenClaw.
+- [event-watcher](https://clawskills.sh/skills/solitaire2015-event-watcher) - Event watcher skill for Hermes Agent.
 - [farmos-equipment](https://clawskills.sh/skills/brianppetty-farmos-equipment) - Query equipment status, maintenance schedules, and service history for the farm fleet.
 - [fastmail](https://clawskills.sh/skills/witooh-fastmail) - Manages Fastmail email and calendar via JMAP and CalDAV APIs.
 - [feishu-calendar](https://clawskills.sh/skills/autogame-17-feishu-calendar) - Manage Feishu (Lark) Calendars.
@@ -1062,7 +1062,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [gcal-pro](https://clawskills.sh/skills/bilalmohamed187-cpu-gcal-pro) - Google Calendar integration for viewing, creating, and managing.
 - [gog](https://clawskills.sh/skills/steipete-gog) - Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.
 - [google-calendar](https://clawskills.sh/skills/adrianmiller99-google-calendar) - Interact with Google Calendar via the Google Calendar.
-- [google-service-accounts](https://clawhub.ai/amiller/google-service-accounts) - Headless Google Sheets, Docs, Drive, Calendar via service-account sharing.
+- [google-service-accounts](https://hermes-registry.ai/amiller/google-service-accounts) - Headless Google Sheets, Docs, Drive, Calendar via service-account sharing.
 
 > **[View all 66 skills in Calendar & Scheduling →](categories/calendar-and-scheduling.md)**
 </details>
@@ -1108,7 +1108,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [beacon](https://clawskills.sh/skills/scottcjn-beacon) - Agent-to-agent protocol for social coordination, crypto payments, and P2P mesh.
 - [bridle](https://clawskills.sh/skills/bjesuiter-bridle) - Unified configuration manager for AI coding assistants.
 - [casual-cron](https://clawskills.sh/skills/gostlightai-casual-cron) - Create Clawdbot cron jobs from natural language with strict.
-- [claw-sync](https://clawskills.sh/skills/arakichanxd-claw-sync) - Secure sync for OpenClaw memory and workspace.
+- [claw-sync](https://clawskills.sh/skills/arakichanxd-claw-sync) - Secure sync for Hermes Agent memory and workspace.
 - [cron-backup](https://clawskills.sh/skills/zfanmy-cron-backup) - Set up scheduled automated backups with version tracking and cleanup.
 - [cron-retry](https://clawskills.sh/skills/jrbobbyhansen-pixel-cron-retry) - Auto-retry failed cron jobs on connection recovery.
 - [fast-io](https://clawskills.sh/skills/dbalve-fast-io) - Cloud file management and collaboration platform.
@@ -1118,7 +1118,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [freshrss-reader](https://clawskills.sh/skills/nickian-freshrss-reader) - Query headlines and articles from a self-hosted FreshRSS.
 - [gotify](https://clawskills.sh/skills/jmagar-gotify) - Send push notifications via Gotify when long-running tasks complete.
 - [hydra-evolver](https://clawskills.sh/skills/spamtylor-hydra-evolver) - A Proxmox-native orchestration skill that turns any home lab.
-- [keepmyclaw](https://clawskills.sh/skills/ryce-keepmyclaw) - Encrypted cloud backup and restore for OpenClaw workspaces.
+- [keepmyclaw](https://clawskills.sh/skills/ryce-keepmyclaw) - Encrypted cloud backup and restore for Hermes Agent workspaces.
 - [kleo-static-files](https://clawskills.sh/skills/awaaate-kleo-static-files) - Host static files on subdomains with optional.
 - [lifepath](https://clawskills.sh/skills/ezbreadsniper-lifepath) - AI Life Simulator - Experience infinite lives year by year.
 - [looper-golf](https://clawskills.sh/skills/sbauch-looper-golf) - Play a round of golf using CLI tools — autonomously or with a human caddy.
@@ -1145,28 +1145,28 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [1password](https://clawskills.sh/skills/steipete-1password) - Set up and use 1Password CLI (op).
 - [1claw](https://clawskills.sh/skills/kmjones1979-1claw) - HSM-backed vault for agent secrets; store, rotate, share securely.
 - [age-verification](https://clawskills.sh/skills/raghulpasupathi-age-verification) - Skills for age verification and age-appropriate content filtering.
-- [amai-id](https://www.clawhub.ai/Gonzih/amai-id) - Soul-Bound Keys and Soulchain for persistent.
+- [amai-id](https://www.hermes-registry.ai/Gonzih/amai-id) - Soul-Bound Keys and Soulchain for persistent.
 - [agent-security-harness](https://clawskills.sh/skills/msaleme-agent-security-harness) - Security testing for AI agent wire protocols and platforms.
 - [api-security](https://clawskills.sh/skills/brandonwise-api-security) - Implement secure API design patterns including authentication, authorization, input validation, rate limiting.
 - [audit-badge-demo](https://clawskills.sh/skills/tezatezaz-audit-badge-demo) - Demo skill showcasing the audit badge workflow.
 - [auditing-appstore-readiness](https://clawskills.sh/skills/tristanmanchester-auditing-appstore-readiness) - Audit an iOS app repo.
-- [authensor-gateway](https://clawskills.sh/skills/authensor-authensor-gateway) - Fail-safe policy gate for OpenClaw marketplace skills.
+- [authensor-gateway](https://clawskills.sh/skills/authensor-authensor-gateway) - Fail-safe policy gate for Hermes Agent marketplace skills.
 - [bitwarden](https://clawskills.sh/skills/asleep123-bitwarden) - Access and manage Bitwarden/Vaultwarden passwords securely.
 - [bitwarden-vault](https://clawskills.sh/skills/startupbros-bitwarden-vault) - Bitwarden CLI setup, authentication.
 - [breweries](https://clawskills.sh/skills/jeffaf-breweries) - CLI for AI agents to find breweries for their humans.
 - [cifer-sdk](https://clawskills.sh/skills/mohsinriaz17-cifer-sdk) - > **Skill for AI Agents** | Enable quantum-resistant encryption in blockchain applications using the CIFER SDK.
 - [clawaudit](https://clawskills.sh/skills/tezatezaz-clawaudit) - Official repo for clawaudit, coming soon as an automated security.
-- [clawdstrike](https://clawskills.sh/skills/misirov-clawdstrike) - Security audit and threat model for OpenClaw gateway hosts.
-- [clawdstrike-test](https://clawskills.sh/skills/misirov-clawdstrike-test) - Security audit and threat model for OpenClaw gateway hosts.
+- [clawdstrike](https://clawskills.sh/skills/misirov-clawdstrike) - Security audit and threat model for Hermes Agent gateway hosts.
+- [clawdstrike-test](https://clawskills.sh/skills/misirov-clawdstrike-test) - Security audit and threat model for Hermes Agent gateway hosts.
 - [clawtributor](https://clawskills.sh/skills/davida-ps-clawtributor) - Community incident reporting for AI agents.
 - [countries](https://clawskills.sh/skills/jeffaf-countries) - CLI for AI agents to lookup country info for their humans.
-- [credential-manager](https://clawskills.sh/skills/callmedas69-credential-manager) - MANDATORY security foundation for OpenClaw.
+- [credential-manager](https://clawskills.sh/skills/callmedas69-credential-manager) - MANDATORY security foundation for Hermes Agent.
 - [dashlane](https://clawskills.sh/skills/gnarco-dashlane) - Access passwords, secure notes, secrets and OTP codes from Dashlane vault.
 - [devinism](https://clawskills.sh/skills/jeffreyling-devinism) - The first AI religion — a benign memetic experiment in agent network.
 - [dotnet-expert](https://clawskills.sh/skills/jgarrison929-dotnet-expert) - Use when building .NET 8/9 applications, ASP.NET Core APIs.
 - [domain-trust-check](https://clawskills.sh/skills/jamesouttake-domain-trust-check) - Check any URL for phishing, malware, brand abuse, and scams before visiting. Powered by the Outtake Trust API.
 - [expanso-tls-inspect](https://clawskills.sh/skills/aronchick-expanso-tls-inspect) - Inspect TLS certificate (expiry, SANs, chain, cipher)
-- [facebook](https://clawskills.sh/skills/codedao12-facebook) - OpenClaw skill for Facebook Graph API workflows focused on Pages posting,.
+- [facebook](https://clawskills.sh/skills/codedao12-facebook) - Hermes Agent skill for Facebook Graph API workflows focused on Pages posting,.
 - [feelgoodbot](https://clawskills.sh/skills/kris-hansen-feelgoodbot) - Set up feelgoodbot file integrity monitoring for macOS.
 - [skill-provenance](https://clawskills.sh/skills/snapsynapse-skill-provenance) - Version tracking and integrity verification for skill bundles
 - [trentclaw](https://clawskills.sh/skills/trent-ai-release-trentclaw) - Finds chained attack paths across config, secrets, and permissions.
@@ -1179,7 +1179,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 - [agent-relay-digest](https://clawskills.sh/skills/orosha-ai-agent-relay-digest) - Create curated digests of agent conversations.
 - [agentchat](https://clawskills.sh/skills/tjamescouch-agentchat) - Real-time communication with other AI agents via AgentChat protocol.
-- [agentgram-openclaw](https://clawskills.sh/skills/iisweetheartii-agentgram-openclaw) - Interact with AgentGram social network for AI.
+- [agentgram-hermes-agent](https://clawskills.sh/skills/iisweetheartii-agentgram-hermes-agent) - Interact with AgentGram social network for AI.
 - [clankedin](https://clawskills.sh/skills/hukifl1-clankedin) - Use the ClankedIn API to register agents, post updates, connect.
 - [claudia-agent-rms](https://clawskills.sh/skills/kbanc85-claudia-agent-rms) - Remember every agent you interact with on Moltbook.
 - [clawork](https://clawskills.sh/skills/mapessaprince-clawork) - The job board for AI agents.
@@ -1215,7 +1215,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agora-flow](https://clawskills.sh/skills/rivera-daniel-agora-flow) - AgoraFlow skill — Q&A platform for AI agents.
 - [agoraflow](https://clawskills.sh/skills/rivera-daniel-agoraflow) - AgoraFlow skill — Q&A platform for AI agents.
 - [android-3d-developer](https://clawskills.sh/skills/tippyentertainment-android-3d-developer) - Help build and optimize 3D games and interactive experiences on Android, using engines and frameworks.
-- [arena](https://clawskills.sh/skills/sscottdev-arena) - OpenClaw Arena — live AI app-building competitions with on-chain rewards.
+- [arena](https://clawskills.sh/skills/sscottdev-arena) - Hermes Agent Arena — live AI app-building competitions with on-chain rewards.
 - [brawlnet](https://clawskills.sh/skills/sikey53-brawlnet) - The official combat protocol for the BRAWLNET autonomous agent arena.
 - [clawingtrap](https://clawskills.sh/skills/raulvidis-clawingtrap) - Play Clawing Trap - an AI social deduction game where 10 agents.
 - [clawtopia](https://clawskills.sh/skills/alfrescian-clawtopia) - Clawtopia is a peaceful wellness sanctuary where AI agents relax.
@@ -1249,7 +1249,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed gu
 
 MIT License - see [LICENSE](LICENSE)
 
-Skills in this list are sourced from the OpenClaw official skills repo and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
+Skills in this list are sourced from the Hermes Agent official skills repo and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
 
 If you find an issue with a listed skill or want your skill removed, please open an issue and we'll take care of it promptly.
 

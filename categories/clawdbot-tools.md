@@ -4,15 +4,15 @@
 
 **37 skills**
 
-- [adhd-assistant](https://clawskills.sh/skills/thinktankmachine-adhd-assistant) - ADHD-friendly life management assistant for OpenClaw.
-- [adhd-ssistant](https://clawskills.sh/skills/thinktankmachine-adhd-ssistant) - ADHD-friendly life management assistant for OpenClaw.
+- [adhd-assistant](https://clawskills.sh/skills/thinktankmachine-adhd-assistant) - ADHD-friendly life management assistant for Hermes Agent.
+- [adhd-ssistant](https://clawskills.sh/skills/thinktankmachine-adhd-ssistant) - ADHD-friendly life management assistant for Hermes Agent.
 - [agent-browser](https://clawskills.sh/skills/matrixy-agent-browser-clawdbot) - Headless browser automation CLI optimized for AI agents.
-- [agent-builder](https://clawskills.sh/skills/plgonzalezrx8-agent-builder) - Build high-performing OpenClaw agents end-to-end.
+- [agent-builder](https://clawskills.sh/skills/plgonzalezrx8-agent-builder) - Build high-performing Hermes Agent agents end-to-end.
 - [agents-manager](https://clawskills.sh/skills/agentandbot-design-agents-manager) - Manage Clawdbot agents: discover, profile, track.
 - [assimilate-mcp](https://clawskills.sh/skills/ergopooka-assimilate-mcp) - Control Assimilate Live FX / SCRATCH — professional color grading, compositing, and virtual production software.
 - [birthday-reminder](https://clawskills.sh/skills/manantra-birthday-reminder) - Manage birthdays with natural language.
 - [bluebubbles](https://clawskills.sh/skills/kevin19830331-bluebubbles) - Build or update the BlueBubbles external channel plugin.
-- [captchas-openclaw](https://clawskills.sh/skills/captchasco-captchas-openclaw) - OpenClaw integration guidance for CAPTCHAS Agent API.
+- [captchas-hermes-agent](https://clawskills.sh/skills/captchasco-captchas-hermes-agent) - Hermes Agent integration guidance for CAPTCHAS Agent API.
 - [claude-code-skill](https://clawskills.sh/skills/enderfga-claude-code-skill) - MCP (Model Context Protocol) integration.
 - [claude-code-usage](https://clawskills.sh/skills/azaidi94-claude-code-usage) - Check Claude Code OAuth usage limits.
 - [claude-connect](https://clawskills.sh/skills/tunaissacoding-claude-connect) - Connect Claude to Clawdbot instantly and keep.
@@ -36,6 +36,6 @@
 - [mcp-hass](https://clawskills.sh/skills/al-one-mcp-hass) - The skill for control Home Assistant smart home devices and query states using MCP protocol.
 - [meegle-mcp-skill](https://clawskills.sh/skills/pkycy-meegle-mcp-skill) - Interact with Meegle project management system via MCP protocol.
 - [pipedream-connect](https://clawskills.sh/skills/maverick-software-pipedream-connect) - Connect 2,000+ APIs with managed OAuth via Pipedream.
-- [provider-sync](https://clawskills.sh/skills/c-joey-provider-sync) - Sync provider models into OpenClaw config.
-- [telegram-footer-patch](https://clawskills.sh/skills/c-joey-telegram-footer-patch) - Patch Telegram replies with OpenClaw footer.
+- [provider-sync](https://clawskills.sh/skills/c-joey-provider-sync) - Sync provider models into Hermes Agent config.
+- [telegram-footer-patch](https://clawskills.sh/skills/c-joey-telegram-footer-patch) - Patch Telegram replies with Hermes Agent footer.
 - [zapier-mcp](https://clawskills.sh/skills/maverick-software-zapier-mcp) - Connect 8,000+ apps via Zapier MCP.

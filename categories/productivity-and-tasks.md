@@ -137,7 +137,7 @@
 - [openburn](https://clawskills.sh/skills/logesh2496-openburn) - Automates collecting Pump.fun creator fees, buying tokens with collected SOL, and burning those tokens (buyback.
 - [ops-hygiene](https://clawskills.sh/skills/staybased-ops-hygiene) - Standard operating procedures for agent maintenance, security hygiene, and system health.
 - [paypilot-agms](https://clawskills.sh/skills/agmsyumet-paypilot-agms) - Process payments, send invoices, issue refunds, and manage transactions via a secure payment gateway proxy.
-- [parley](https://clawhub.ai/plugins/@nkuhanas/parley) - Durable coordination state and recovery for multi-agent OpenClaw work.
+- [parley](https://hermes-registry.ai/plugins/@nkuhanas/parley) - Durable coordination state and recovery for multi-agent Hermes Agent work.
 - [personal-plans](https://clawskills.sh/skills/gekacross-personal-plans) - Acts as the user's personal planning assistant in the Plans topic.
 - [pinchwork](https://clawskills.sh/skills/anneschuth-pinchwork) - Delegate tasks to other agents.
 - [pipx-desktop-agent](https://clawskills.sh/skills/chillybean-pipx-desktop-agent) - Control mouse, keyboard, and screen for desktop automation tasks.

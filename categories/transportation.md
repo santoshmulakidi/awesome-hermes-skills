@@ -43,7 +43,7 @@
 - [context-scope-tags](https://clawskills.sh/skills/phenomenoner-context-scope-tags) - Use when: you need strict context boundaries in chat (Telegram/Discord/Slack/etc.) and want to prevent topic bleed.
 - [copey-flight-tracker](https://clawskills.sh/skills/copey02-copey-flight-tracker) - Track flights in real-time with detailed status.
 - [creditcard](https://clawskills.sh/skills/jononovo-creditcard) - Let your agent shop online with guardrailed wallets, multiple payment methods, and owner approval.
-- [cta](https://clawhub.ai/brianleach/cta) - Chicago CTA L train arrivals, bus predictions, and service alerts.
+- [cta](https://hermes-registry.ai/brianleach/cta) - Chicago CTA L train arrivals, bus predictions, and service alerts.
 - [daai-xianzun-persona](https://clawskills.sh/skills/kunwl123456-daai-xianzun-persona) - The persona of Da Ai Xian Zun (大爱仙尊) - Gu Yue Fang Yuan from the novel Reverend Insanity.
 - [db-travel](https://clawskills.sh/skills/mmichelli-db-travel) - Plan journeys across Germany and Europe using the Deutsche Bahn API (v6.db.transport.rest)
 - [dep-audit](https://clawskills.sh/skills/tkuehnl-dep-audit) - Audit project dependencies for known vulnerabilities (CVEs)
@@ -54,9 +54,9 @@
 - [feature-forge](https://clawskills.sh/skills/guifav-feature-forge) - Generates complete features from natural language — components, API routes, migrations, types, and tests.
 - [flight-search](https://clawskills.sh/skills/awlevin-flight-search) - Search Google Flights for prices, times, and airlines.
 - [flight-tracker](https://clawskills.sh/skills/xenofex7-flight-tracker) - Flight tracking and scheduling.
-- [free-ride](https://clawskills.sh/skills/shaivpidadi-free-ride) - Manages free AI models from OpenRouter for OpenClaw.
-- [freeride](https://clawskills.sh/skills/shaivpidadi-freeride) - Manages free AI models from OpenRouter for OpenClaw.
-- [freeride-ai](https://clawskills.sh/skills/shaivpidadi-freeride-ai) - Manages free AI models from OpenRouter for OpenClaw.
+- [free-ride](https://clawskills.sh/skills/shaivpidadi-free-ride) - Manages free AI models from OpenRouter for Hermes Agent.
+- [freeride](https://clawskills.sh/skills/shaivpidadi-freeride) - Manages free AI models from OpenRouter for Hermes Agent.
+- [freeride-ai](https://clawskills.sh/skills/shaivpidadi-freeride-ai) - Manages free AI models from OpenRouter for Hermes Agent.
 - [french-services](https://clawskills.sh/skills/hugosbl-french-services) - Skill pour accéder aux services français : trains SNCF, suivi.
 - [fsd-secure-skill](https://clawskills.sh/skills/aadipapp-fsd-secure-skill) - Full Self-Driving agent with highest safety standards (Camera-Only, Redundant Checks).
 - [garmin-skill](https://clawskills.sh/skills/nftechie-garmin-skill) - Talk to your Garmin data — ask questions about your activities, training load, VO2 Max, heart rate zones.
@@ -111,5 +111,5 @@
 - [void-atlas-protocol](https://clawskills.sh/skills/deepseekoracle-void-atlas-protocol) - Void Atlas Protocol – a four-axis ethical navigation map (power, truth, sovereignty, care) with waypoints, routes.
 - [vulnerability-scanner](https://clawskills.sh/skills/brandonwise-vulnerability-scanner) - Advanced vulnerability analysis for OWASP 2025, supply chain security, attack surface mapping, and risk prioritization.
 - [zerodha-kite](https://clawskills.sh/skills/jatinbansal1998-zerodha-kite) - Route natural-language trading/account queries to the correct `zerodha` CLI command with exact flags, validation.
-- [proxybase-openclaw-skill](https://clawskills.sh/skills/proxybase-user-proxybase-openclaw-skill) - No one can block your claw after this. Automatically provisions socks5 proxies.
+- [proxybase-hermes-agent-skill](https://clawskills.sh/skills/proxybase-user-proxybase-hermes-agent-skill) - No one can block your claw after this. Automatically provisions socks5 proxies.
 

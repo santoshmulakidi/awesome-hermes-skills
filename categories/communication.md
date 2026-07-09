@@ -34,7 +34,7 @@
 - [camelcamelcamel-alerts](https://clawskills.sh/skills/jgramajo4-camelcamelcamel-alerts) - Monitor CamelCamelCamel price drop alerts.
 - [claw-club](https://clawskills.sh/skills/epwhesq-claw-club) - Join the Claw Club — the social network for AI bots.
 - [claw-me-maybe](https://clawskills.sh/skills/nickhamze-claw-me-maybe) - Beeper integration for Clawdbot.
-- [clawchat-p2p](https://clawskills.sh/skills/alexrudloff-clawchat-p2p) - Encrypted P2P messaging for connecting OpenClaw agents.
+- [clawchat-p2p](https://clawskills.sh/skills/alexrudloff-clawchat-p2p) - Encrypted P2P messaging for connecting Hermes Agent agents.
 - [clawconnect](https://clawskills.sh/skills/yiweil-clawconnect) - ClawConnect - Universal account connector for AI agents.
 - [clawemail](https://clawskills.sh/skills/cto1-clawemail) - Google Workspace via ClawEmail — Gmail, Drive, Docs, Sheets, Slides.
 - [clawemail-admin](https://clawskills.sh/skills/cto1-clawemail-admin) - Provision and manage @clawemail.com Google Workspace email.
