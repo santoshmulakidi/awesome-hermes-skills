@@ -1,3 +1,26 @@
+# Awesome Hermes Skills
+
+> A curated, install-ready collection of skills for **Hermes Agent** by Nous Research.
+> Forked from [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) (MIT) and adapted for the Hermes ecosystem.
+>
+> **5,400+ skills** curated from the OpenClaw/ClawHub ecosystem, with automated conversion to Hermes format.
+>
+> ## Quick Start
+>
+> ```bash
+> # Browse skills
+> hermes skills browse
+>
+> # Install a skill from this catalog
+> hermes skills install <skill-name>
+>
+> # Or convert an OpenClaw skill to Hermes format
+> python scripts/convert-openclaw-to-hermes.py /path/to/SKILL.md ./skills/
+> ```
+>
+> ## Categories
+> See [CATALOG-INDEX.md](CATALOG-INDEX.md) for the full catalog.
+
 <div align="center">
 
 <a href="https://clawskills.sh/">
